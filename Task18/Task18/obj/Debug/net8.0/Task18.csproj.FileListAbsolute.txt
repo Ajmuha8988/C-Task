@@ -1,0 +1,14 @@
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\bin\Debug\net8.0\Task18.exe
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\bin\Debug\net8.0\Task18.deps.json
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\bin\Debug\net8.0\Task18.runtimeconfig.json
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\bin\Debug\net8.0\Task18.dll
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\bin\Debug\net8.0\Task18.pdb
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\Task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\Task18.AssemblyInfoInputs.cache
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\Task18.AssemblyInfo.cs
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\Task18.csproj.CoreCompileInputs.cache
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\Task18.dll
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\refint\Task18.dll
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\Task18.pdb
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\Task18.genruntimeconfig.cache
+C:\Users\Мухамат\Desktop\Kursach\Task18\Task18\obj\Debug\net8.0\ref\Task18.dll

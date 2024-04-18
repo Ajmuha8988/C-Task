@@ -1,0 +1,14 @@
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\bin\Debug\net8.0\Task7.exe
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\bin\Debug\net8.0\Task7.deps.json
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\bin\Debug\net8.0\Task7.runtimeconfig.json
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\bin\Debug\net8.0\Task7.dll
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\bin\Debug\net8.0\Task7.pdb
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfoInputs.cache
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\Task7.AssemblyInfo.cs
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\Task7.dll
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\refint\Task7.dll
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\Task7.pdb
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\Task7.genruntimeconfig.cache
+C:\Users\Мухамат\Desktop\Kursach\Task7\Task7\obj\Debug\net8.0\ref\Task7.dll
